@@ -15,7 +15,7 @@ This project is a basic clone of the Myntra website. It serves as a starting poi
 
 ## Installation
 1. Clone the repository.
-git clone https://github.com/your-username/myntra-clone.git
+git clone [https://github.com/your-username/myntra-clone.git](https://github.com/Dhirajpatole/Project-Myntra-Clone.git)
 
 markdown
 Copy code
